@@ -30,7 +30,7 @@ if answer3 == "9" or "nine":
 else:
     print("\nwrong\n")
 
-answer4 = input("\nQ4 How long is Entprise mission in space in the Original Series?\n-> ").lower()
+answer4 = input("\nQ4 How many years is Entprise mission in space in the Original Series?\n-> ").lower()
 if answer4 == "5" or "five":
     print("\nCorrect\n")
 else:
