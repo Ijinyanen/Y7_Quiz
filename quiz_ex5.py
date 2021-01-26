@@ -7,6 +7,7 @@ print("You shall be scored for each.\n\n")
 name = input("Please enter your first name. -> ")
 surname = input("Please enter your surname. -> ")
 age = input("Please enter your age. -> ")
+print(name, surname, age)
 print(" ",name, "   ", surname, "   ", age)
 print("\nWelcome to the Ulitmate Quiz, ", name, "\n")
 
