@@ -15,13 +15,13 @@ print("\nWelcome to the Ulitmate Quiz, ", bucket, "\n")
 # challeng 3/4
 answer1 = input("Q1. What is the name of the ship that features in most Star Trek series?\n-> ").upper()
 if answer1 == "ENTERPRISE":
-print("\ncorrect.\n")
-else:
-print("\nwrong.\n")
-
-#challenge 5
-answer2 = input("Q1. What is the name of the ship that features in most Star Trek series?\n-> ").upper()
-if answer2 == "ENTERPRISE":
     print("\ncorrect.\n")
 else:
     print("\nwrong.\n")
+
+#challenge 5
+answer2 = input("\nQ2 What is the surname of the captain of the Entprise D?\n-> ").lower()
+if answer2 == "picard":
+    print("\nCorrect\n")
+else:
+    print("\nwrong\n")

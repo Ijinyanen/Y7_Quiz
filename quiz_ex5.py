@@ -4,12 +4,12 @@ print("There will be 10 questions.")
 print("You shall be scored for each.\n\n")
 
 # challenge 2
-name = input("Please enter your first name. -> ")
+bucket = input("Please enter your first name. -> ")
 surname = input("Please enter your surname. -> ")
 age = input("Please enter your age. -> ")
-print(name, surname, age)
-print(" ",name, "   ", surname, "   ", age)
-print("\nWelcome to the Ulitmate Quiz, ", name, "\n")
+print(bucket, surname, age)
+print(" ",bucket, "   ", surname, "   ", age)
+print("\nWelcome to the Ulitmate Quiz, ", bucket, "\n")
 
 # challeng 3/4
 answer1 = input("Q1. What is the name of the ship that features in most Star Trek series?\n-> ").lower()

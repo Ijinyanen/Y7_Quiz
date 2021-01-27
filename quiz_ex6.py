@@ -33,9 +33,7 @@ while answer3 != "9" and  answer3 != "nine":
 print("\ncorrect\n")
 
 answer4 = input("\nQ4 How many years is Entprise's mission in space in the Original Series?\n-> ").lower()
-while True:
-    if answer4 == "5" or "five":
-        break
+while answer4 != "5" and answer4 != "five":
     print("\nwrong\n")
     answer4 = input("\nQ3 Complete the name of this Star Trek Series. 'Deep Space ____' .\n-> ").lower()
 print("\ncorrect\n")
@@ -53,9 +51,7 @@ while answer6 == "khan":
 print("\ncorrect\n")
 
 answer7 = input("\nQ7 How many seasons of The Next Generation are there? \n-> ").lower()
-while True:
-    if answer7 == "7" or "seven":
-        break
+while answer7 != "7" and answer7 != "seven":
     print("\nwrong\n")
     answer7 = input("\nQ7 How many seasons of The Next Generation are there? \n-> ").lower()
 print("\ncorrect\n")
