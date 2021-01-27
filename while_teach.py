@@ -3,7 +3,7 @@ answer1 = input("Q1. What is the name of the ship that features in most Star Tre
 
 #while answer1 != "ENTERPRISE":
     #print("\nwrong.\n")
-    #This code will errror....badly. Why? How can I change it?
+    #This code will error....badly. Why? How can I change it?
 
 if answer1 == "ENTERPRISE":    
     print("correct")

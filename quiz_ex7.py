@@ -60,7 +60,7 @@ while answer4 != "5" and answer4 != "five":
         print("You have had 1 try.\n")
     else:
         print("You have had ", tries, " tries.\n")
-    answer4 = input("\nQ3 Complete the name of this Star Trek Series. 'Deep Space ____' .\n-> ").lower()
+    answer4 = input("\nQ4 How many years is Entprise's mission in space in the Original Series?\n-> ").lower()
     tries = tries + 1
 print("\ncorrect\n")
 

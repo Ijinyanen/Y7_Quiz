@@ -35,7 +35,7 @@ print("\ncorrect\n")
 answer4 = input("\nQ4 How many years is Entprise's mission in space in the Original Series?\n-> ").lower()
 while answer4 != "5" and answer4 != "five":
     print("\nwrong\n")
-    answer4 = input("\nQ3 Complete the name of this Star Trek Series. 'Deep Space ____' .\n-> ").lower()
+    answer4 = input("\nQ4 How many years is Entprise's mission in space in the Original Series?\n-> ").lower()
 print("\ncorrect\n")
 
 answer5 = input("\nQ5 What is the name of the Vulcan who features as first officer in the Original Series?\n-> ").lower()
